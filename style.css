@@ -1,0 +1,18 @@
+.com {
+    border: 1px solid #000000;
+    text-decoration: none;
+    margin: 50px;
+    padding: 10px;
+    display: inline-block;
+    font-family: "Times New Roman";
+    font-size: 2em;
+    color: #000000;
+}
+.com:hover{
+    color: #BA3721;
+    background: linear-gradient(bottom, #EAEACF 0%,#FBFEF2 100%);
+    background:-webkit-linear-gradient(bottom,  #EAEACF 0%,#FBFEF2 100%);
+    background:-o-linear-gradient(bottom,  #EAEACF 0%,#FBFEF2 100%);
+    background:-ms-linear-gradient(bottom,  #EAEACF 0%,#FBFEF2 100%);
+    box-shadow: 0 0 1px 1px #9F9F9F;
+}
